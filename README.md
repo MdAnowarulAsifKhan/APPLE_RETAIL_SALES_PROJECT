@@ -51,7 +51,7 @@ The project uses five main tables:
    - `sale_id`: References the sales table.
    - `repair_status`: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
-
+--------
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
