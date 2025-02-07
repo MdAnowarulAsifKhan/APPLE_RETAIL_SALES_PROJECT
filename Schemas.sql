@@ -3,20 +3,13 @@
 
 
 /*
-IMPORTANT PROJECT GUIDANCE 
--- ------------------------------
-PLEASE READ THIS
--- ------------------------------
--- Please make sure to Import as mentioned below
+
 1. Import first to Category TABLE
 2. Import to Product Table
 3. Import to Stores Table
 4. Import to Sales TABLE
 5. Import to Warranty Table
 
-For any issues reach out to below
-dm on insta -- https://www.instagram.com/zero_analyst/
-email najir@zeroanalyst.com
 */
 
 -- DROP TABLE command
