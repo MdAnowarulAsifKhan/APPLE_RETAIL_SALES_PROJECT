@@ -11,7 +11,7 @@ This project is designed to showcase advanced SQL querying techniques through th
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+
 
 
 
